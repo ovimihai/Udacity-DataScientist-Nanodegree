@@ -14,8 +14,8 @@ Course materials, lessons learned, projects
     1. [Spark](#todo)
 
 01. Supervised Learning
-    0. [Machine Learning Bird's Eye View](lessons/01.Supervised Learning/01.Machine Learning Bird's Eye View.ipynb)
-    0. [Linear Regression](lessons/01.Supervised Learning/02.Linear Regression.ipynb)
+    1. [Machine Learning Bird's Eye View](lessons/01.Supervised Learning/01.Machine Learning Bird's Eye View.ipynb)
+    1. [Linear Regression](lessons/01.Supervised Learning/02.Linear Regression.ipynb)
 02. Deep Learning
 04. Unsupervised Learning
 05. Introduction to Data Science
